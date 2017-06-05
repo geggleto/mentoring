@@ -10,7 +10,19 @@ You are to design, build and test a simple "Account Management API"
 Your API must implement the following REST Resources
 
 - Account
+  - id
+  - name
+  - created_at
+  - updated_at
+  
 - Account Users
+  - id
+  - account_id
+  - name
+  - username
+  - password
+  - created_at
+  - updated_at
 
 ### Functionality
 
